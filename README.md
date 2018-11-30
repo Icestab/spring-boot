@@ -1,2 +1,3 @@
 # spring-boot
 基于spring boot生成restful api跨域访问获取header
+解决因跨域导致请求变成options从而无法获取header
